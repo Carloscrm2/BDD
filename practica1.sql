@@ -1,5 +1,5 @@
 /*  Práctica 1: Repaso de programación de consultas en BD Relacionales 
-
+Alumno: Gómez García Carlos Eduardo
 Instrucciones: Considerando la BD escuela, programe las siguientes consultas y rutinas. Puede utilizar vistas si la solución lo requiere.
 Objetivo: Ejercitar la instrucción SELECT con sus diversas clausulas (INNER JOIN, LEFT JOIN, IN, EXIST, GROUP BY, entre otras)
           aplicando el menor número de operaciones posible para resolver las consultas.  
